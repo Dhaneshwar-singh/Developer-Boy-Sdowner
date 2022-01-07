@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently A Learning Developer
+- 🔭 I’m A Developer
 
 >How to reach me: **tusuar4@gmail.com**
 
