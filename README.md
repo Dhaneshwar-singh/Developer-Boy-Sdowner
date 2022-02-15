@@ -18,6 +18,7 @@
 <img align="left" alt="heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
 <img align="left" alt="netlify" width="26px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
+<img align="left" alt="wordpress" width="26px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" />
 
 
 
